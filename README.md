@@ -1,2 +1,5 @@
-# udacitydevopsnanodegreeprojects
-Udacity DevOps Engineer Nanodegree Projects
+# Udacity DevOps Engineer Nanodegree Projects
+
+# Project 1
+- Description:
+    - Static website
